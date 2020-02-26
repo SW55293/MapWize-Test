@@ -1,11 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <color name="colorPrimary">#F23196</color>
-    <color name="colorPrimaryDark">#711083</color>
+    <color name="colorPrimary">#3333EE</color>
+    <color name="colorPrimaryDark">#34AE61</color>
 
     <!--colorAccent and mapwize_main_color impact the colors in fragment.
-     colorAccent changes the loading bar's color.
+     colorAccent changes the loading bar's color.711083,#F23196
      mapwize_main_color changes ui main color such as buttons -->
-    <color name="colorAccent">#C51586</color>
-    <color name="mapwize_main_color">#C51586</color>
+    <!--color name="colorAccent">#C51586</color>
+    <color name="mapwize_main_color">#C51586</color> -->
+    <color name="colorAccent">#5860DC</color>
 </resources>
